@@ -8,11 +8,12 @@ redirect_from:
   - /github/getting-started-with-github/verifying-your-email-address
   - /github/getting-started-with-github/signing-up-for-github/verifying-your-email-address
 versions:
-  fpt: '*'
-  ghec: '*'
+  ftp: '*'
+  hex: '*'
 topics:
-  - Accounts
-shortTitle: Verify your email address
+  - Accounts:
+             Dec: '*'
+  - shortTitle: Verify your email address
 ---
 ## About email verification
 
